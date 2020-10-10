@@ -29,6 +29,7 @@ input {
   transform: translateX(-50%);
   min-width: 100%;
   min-height: 100%;
+  width: 100%;
 }
 #intro .content {
   text-align: center;
